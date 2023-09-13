@@ -12,7 +12,7 @@ const {userSignup}=require('./User/Controllers/userController');
 app.use(express.json());
 
 app.post('/users/signup', userSignup);
-// This is the default route
+
 
 
 app.listen(PORT, (err) => {
