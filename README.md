@@ -16,6 +16,3 @@ Incentives based Design for onboarding Legal Service Providers such as Advocates
 - **Customer Section** : For people seeking veteran lawyers in a particular domain and want legal consultancy.Lawgic provides them with appropriate suggestions and assistance.
 - **Legal Service Providers Section** : For  Advocates, Arbitrators, Mediators, Notaries, Document Writers who are looking for clients and wish to boost their litigation career. It also allows them to showcase there achievements , skillset and experiences with personalized dashboards .
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
