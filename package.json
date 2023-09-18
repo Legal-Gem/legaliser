@@ -1,16 +1,20 @@
 {
-  "name": "legal_gem",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "An e-Marketplace for Legal requirements. Incentives based Design for onboarding Legal Service Providers such as Advocates, Arbitrators, Mediators, Notaries, Document Writers, etc on eMarket Place for extending Legal Services to Citizens in India. ## Table of Contents",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
     "env": "^0.0.2",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1"
   }
 }
