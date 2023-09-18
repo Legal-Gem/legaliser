@@ -1,5 +1,5 @@
 const User = require('../Models/userSchema');
-
+const bcrypt=require('bcrypt');
 const saltRounds = 10;
 async function userSignup(req, res) {
   try {

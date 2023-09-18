@@ -1,0 +1,26 @@
+## lawyer schema
+
+- username
+- password
+- name
+- email
+- office phone
+- office address
+- pending appointments
+- completed appointments
+- on going cases
+- past cases
+- pending consultation to case conversion requests
+- service rates
+- case rate tiers
+- reivews
+- reputation ==> can use this only for the leaderboard ranking
+- specialisation 
+- experience in years
+- number of win cases
+- number of lose cases
+- number of abandoned/transferred cases
+- education (institute they graduated from)
+- social handles (if they want to give any)
+- location (where they practice)
+- list of locations where they are comfortable in representing clients (take up cases)

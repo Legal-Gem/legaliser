@@ -12,7 +12,7 @@ router.get('/',(req,res)=>{
 });
 
 // User Sign-up Route
-router.post('users/signup',userSignup);
+// router.post('users/signup',userSignup);
 
 
 // router.get('pro')
